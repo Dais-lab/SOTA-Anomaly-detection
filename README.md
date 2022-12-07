@@ -11,6 +11,8 @@ In contrast to anomaly detection on single time series, extensive recent studies
 | Model       | Paper reference                                              |
 | :---------- | :----------------------------------------------------------- |
 
-1.  ##**| MSCRED |** [AAAI'19] Chuxu Zhang, Dongjin Song, Yuncong Chen, Xinyang Feng, Cristian Lumezanu, Wei Cheng, Jingchao Ni, Bo Zong, Haifeng Chen, Nitesh V. Chawla.                  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data. 
+1.  **| MSCRED |** [AAAI'19] Chuxu Zhang, Dongjin Song, Yuncong Chen, Xinyang Feng, Cristian Lumezanu, Wei Cheng, Jingchao Ni, Bo Zong, Haifeng Chen, Nitesh V. Chawla.                  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data. 
+2.  **| MTAD-GAT |** [ICDM'2020] Multivariate Time-series Anomaly Detection via Graph Attention Networks 
+
 
 
