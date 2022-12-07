@@ -14,7 +14,14 @@ In contrast to anomaly detection on single time series, extensive recent studies
 1.  **MSCRED** [AAAI'19] Chuxu Zhang, Dongjin Song, Yuncong Chen, Xinyang Feng, Cristian Lumezanu, Wei Cheng, Jingchao Ni, Bo Zong, Haifeng Chen, Nitesh V. Chawla.                  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data. 
 2.  **MTAD-GAT** [ICDM'2020] Multivariate Time-series Anomaly Detection via Graph Attention Networks 
 
-
+| OmniAnomaly | **[KDD'2019]** Ya Su, Youjian Zhao, Chenhao Niu, Rong Liu, Wei Sun, Dan Pei. Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network |
+| MTAD-GAT | **[ICDM'2020]** Multivariate Time-series Anomaly Detection via Graph Attention Networks |
+| USAD | **[KDD'2020]** USAD: UnSupervised Anomaly Detection on Multivariate Time Series. |
+| InterFusion | **[KDD'2021]** Zhihan Li, Youjian Zhao, Jiaqi Han, Ya Su, Rui Jiao, Xidao Wen, Dan Pei. Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding |
+| TranAD | **[VLDB'2021]** TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data |
+| RANSynCoders | **[KDD'2021]** Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization |
+| AnomalyTransformer | **[ICLR'2022]** Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy |
+| GANF | **[ICLR'2022]** Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series |
 
 
 
